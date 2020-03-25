@@ -16,7 +16,7 @@ import { ServersComponent } from './servers/servers.component';
   imports: [
     BrowserModule,
     FormsModule,
-    HttpClientModule
+    HttpClientModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
